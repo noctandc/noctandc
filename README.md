@@ -31,18 +31,20 @@ Bonjour, je suis Lou Lafet, actuellement en 3e année de BUT Informatique. Je su
 ## Mes projets
 [Chasse aux Lieux](https://github.com/noctandc/chasseAuxLieux)
 > Application Android de quiz de géographie avec une mécanique de grattage utilisant l’accéléromètre du téléphone.<br><br>
-> Langage Kotlin<br><br>
+> Langage Kotlin<br><br><br>
 > Travail Individuel<br>
+
 
 Site Saint Valentin Kitch
 > Site web pour l'élu de son coeur en local.<br><br>
 > Langages : HTML, CSS, JavaScript<br><br>
 > Travail Individuel<br>
 
+
 Site web de réservation de cours de danse
-> Site web où l'utilisateur peut réserver des crénaux de danse et le professeur d'ajouter des crénaux.
-> Langages : C#, HTML, CSS
-> Travail de groupe. Rôle : Développement des pages de connexions, inscriptions et réservations des cours
+> Site web où l'utilisateur peut réserver des crénaux de danse et le professeur d'ajouter des crénaux.<br><br>
+> Langages : C#, HTML, CSS<br><br>
+> Travail de groupe.<br>Rôle : Développement des pages de connexions, inscriptions et réservations des cours
 
 <!--
 ## Expériences Professionnelles
