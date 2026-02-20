@@ -44,7 +44,7 @@ Site Saint Valentin Kitch
 Site web de réservation de cours de danse
 > Site web où l'utilisateur peut réserver des crénaux de danse et le professeur d'ajouter des crénaux.<br><br>
 > Langages : C#, HTML, CSS<br><br>
-> Travail de groupe.<br>Rôle : Développement des pages de connexions, inscriptions et réservations des cours
+> Travail de groupe avec [@2Axelle9](https://github.com/2Axelle9) et [@Justine2805](https://github.com/Justine2805).<br>Mon rôle : Développement des pages de connexions, inscriptions et réservations des cours
 
 <!--
 ## Expériences Professionnelles
