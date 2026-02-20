@@ -1,16 +1,38 @@
-## Hi there 👋
+## Introduction
+Bonjour, je suis Lou Lafet, actuellement en 3e année de BUT Informatique. Je suis passionnée par le développement. Ce répertoire regroupe l'ensemble de mes projets et compétences.
+## Compétences
+### Langages de programmation et Web
+- Java, C#, C, Python, PHP
+- HTML, CSS JavaScript, TypeScript, Kotlin, SQL
+### Frameworks et Bibliothèques
+- React
+- Angular
+- Robot Framework
+### Outils, IDE et Conception
+**IDE :**
+  - Eclipse
+  - Visual Studio Code
+  - IntelliJ IDEA
+  - PhpStorm
 
-<!--
-**noctandc/noctandc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Outils :**
+  - Git
+  - Figma
+  - Unreal Engine
+  - Jira
 
-Here are some ideas to get you started:
+**Concepyion et gestion :**
+  - UML
+  - Modelio
+  - Cahier des charges
+  - Diagrammes (Gantt, Pert, Ishikawa)
+  - Analyse des besoins et des risques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes projets
+A venir
+
+## Expériences Professionnelles
+A rédiger
+
+## Me contacter
+**Email :** maloucharan@gmail.com
