@@ -21,7 +21,7 @@ Bonjour, je suis Lou Lafet, actuellement en 3e année de BUT Informatique. Je su
   - Unreal Engine
   - Jira
 
-**Concepyion et gestion :**
+**Conception et gestion :**
   - UML
   - Modelio
   - Cahier des charges
