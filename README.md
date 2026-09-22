@@ -20,6 +20,7 @@ Bonjour, je suis Lou Lafet, actuellement en première année de master MTI3D. Je
   - Figma
   - Unreal Engine
   - Jira
+  - Unity
 
 **Conception et gestion :**
   - UML
