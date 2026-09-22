@@ -1,5 +1,5 @@
 ## Introduction
-Bonjour, je suis Lou Lafet, actuellement en 3e année de BUT Informatique. Je suis passionnée par le développement. Ce répertoire regroupe l'ensemble de mes projets et compétences.
+Bonjour, je suis Lou Lafet, actuellement en première année de master MTI3D. Je suis passionnée par le développement. Ce répertoire regroupe l'ensemble de mes projets et compétences.
 ## Compétences
 ### Langages de programmation et Web
 - Java, C#, C, Python, PHP
