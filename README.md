@@ -35,6 +35,10 @@ Bonjour, je suis Lou Lafet, actuellement en première année de master MTI3D. Je
 > Langage Kotlin<br><br><br>
 > Travail Individuel<br>
 
+[Remise à niveau d'un site fictif](https://github.com/noctandc/R5.04-Projet-Scolaire_Remise-a-niveau-d-un-site-fictif.)
+> Site web fictif de e-commerce<br><br>
+> Langages : JavaScript, HTML<br><br>
+> Travail Scolaire Individuel <br>
 
 Site Saint Valentin Kitch
 > Site web pour l'élu de son coeur en local.<br><br>
